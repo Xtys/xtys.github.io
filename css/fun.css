@@ -22,6 +22,7 @@
 }
 
 .image__overlay:hover{
+	opacity: 1;
 
 }
 
