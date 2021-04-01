@@ -1,11 +1,11 @@
 a, a:hover {
-  color: #00c1c1;
+  color: #DAF7A6;
 }
 
 
 /* Back to top button */
 .back-to-top {
-  background: #00c1c1;
+  background: #DAF7A6;
   color: #fff;
 }
 
@@ -21,7 +21,7 @@ a, a:hover {
 }
 
 .navbar-default {
-  background: #00c1c1;
+  background: #DAF7A6;
 }
 
 .form-control:focus {
