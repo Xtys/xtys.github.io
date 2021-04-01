@@ -1,5 +1,5 @@
 a, a:hover {
-  color: #F6FFE4;
+  color: #ACFBF0;
 }
 
 
@@ -11,17 +11,17 @@ a, a:hover {
 
 
 .back-to-top:focus {
-  background: #F6FFE4;
+  background: #ACFBF0;
   color: #fff;
 }
 
 .back-to-top:hover {
-  background: #019090;
+  background: #ACFBF0;
   color: #fff;
 }
 
 .navbar-default {
-  background: #F6FFE4;
+  background: #ACFBF0;
 }
 
 .form-control:focus {
@@ -31,7 +31,7 @@ a, a:hover {
 }
 
 .service .carousel-indicators .active {
-  background: #F6FFE4;
+  background: #ACFBF0;
 }
 
 .btn-theme {
@@ -39,5 +39,5 @@ a, a:hover {
 }
 
 .contact-widget i {
-  color: #F6FFE4;
+  color: #ACFBF0;
 }
