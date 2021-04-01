@@ -1,17 +1,17 @@
 a, a:hover {
-  color: #DAF7A6;
+  color: #F6FFE4;
 }
 
 
 /* Back to top button */
 .back-to-top {
-  background: #DAF7A6;
+  background: #F6FFE4;
   color: #fff;
 }
 
 
 .back-to-top:focus {
-  background: #00c1c1;
+  background: #F6FFE4;
   color: #fff;
 }
 
@@ -21,7 +21,7 @@ a, a:hover {
 }
 
 .navbar-default {
-  background: #DAF7A6;
+  background: #F6FFE4;
 }
 
 .form-control:focus {
@@ -31,13 +31,13 @@ a, a:hover {
 }
 
 .service .carousel-indicators .active {
-  background: #00c1c1;
+  background: #F6FFE4;
 }
 
 .btn-theme {
-  background: #00c1c1;
+  background: #F6FFE4;
 }
 
 .contact-widget i {
-  color: #00c1c1;
+  color: #F6FFE4;
 }
