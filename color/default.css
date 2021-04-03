@@ -16,7 +16,7 @@ a, a:hover {
 }
 
 .back-to-top:hover {
-  background: #28062B;
+  background: #3C0451;
   color: #fff;
 }
 
@@ -25,17 +25,17 @@ a, a:hover {
 }
 
 .form-control:focus {
-  border-color: #ACFBF0;
-  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #00c1c1;
-  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #00c1c1;
+  border-color: #28062B;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #28062B;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 2px #28062B;
 }
 
 .service .carousel-indicators .active {
-  background: #ACFBF0;
+  background: #28062B;
 }
 
 .btn-theme {
-  background: #ACFBF0;
+  background: #28062B;
 }
 
 .contact-widget i {
