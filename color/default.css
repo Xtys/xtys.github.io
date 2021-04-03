@@ -1,22 +1,22 @@
 a, a:hover {
-  color: #ACFBF0;
+  color: #28062B;
 }
 
 
 /* Back to top button */
 .back-to-top {
-  background: #ACFBF0;
+  background: #28062B;
   color: #fff;
 }
 
 
 .back-to-top:focus {
-  background: #ACFBF0;
+  background: #28062B;
   color: #fff;
 }
 
 .back-to-top:hover {
-  background: #ACFBF0;
+  background: #28062B;
   color: #fff;
 }
 
@@ -39,5 +39,5 @@ a, a:hover {
 }
 
 .contact-widget i {
-  color: #ACFBF0;
+  color: #28062B;
 }
